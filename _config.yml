@@ -48,3 +48,5 @@ copyright:
 
 paginate:     5
 gems: [jekyll-paginate]
+
+theme: jekyll-theme-leap-day
